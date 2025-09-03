@@ -1,0 +1,17 @@
+title: "Meghana Vaddella"
+description: "Bioinformatics | Computational Biology | Precision Medicine"
+baseurl: "" 
+url: "https://yourusername.github.io"
+
+# Navigation menu
+nav:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about
+  - title: "Projects"
+    url: /projects
+  - title: "Contact"
+    url: /contact
+
+theme: minima   # simple theme that works with GitHub Pages
